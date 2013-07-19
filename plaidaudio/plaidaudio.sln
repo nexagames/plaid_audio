@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plaidaudio", "plaidaudio.vcxproj", "{D3F85753-E256-4634-BB73-1370D1022E14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testproject", "examples\test\testproject.vcxproj", "{92259C53-70DF-4A52-84E4-1E3D66CFA656}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial", "examples\tutorial\tutorial.vcxproj", "{C97EBE53-E12F-4083-9017-3F20CD9B5A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F85753-E256-4634-BB73-1370D1022E14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3F85753-E256-4634-BB73-1370D1022E14}.Debug|Win32.Build.0 = Debug|Win32
+		{D3F85753-E256-4634-BB73-1370D1022E14}.Release|Win32.ActiveCfg = Release|Win32
+		{D3F85753-E256-4634-BB73-1370D1022E14}.Release|Win32.Build.0 = Release|Win32
+		{92259C53-70DF-4A52-84E4-1E3D66CFA656}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92259C53-70DF-4A52-84E4-1E3D66CFA656}.Debug|Win32.Build.0 = Debug|Win32
+		{92259C53-70DF-4A52-84E4-1E3D66CFA656}.Release|Win32.ActiveCfg = Release|Win32
+		{92259C53-70DF-4A52-84E4-1E3D66CFA656}.Release|Win32.Build.0 = Release|Win32
+		{C97EBE53-E12F-4083-9017-3F20CD9B5A06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C97EBE53-E12F-4083-9017-3F20CD9B5A06}.Debug|Win32.Build.0 = Debug|Win32
+		{C97EBE53-E12F-4083-9017-3F20CD9B5A06}.Release|Win32.ActiveCfg = Release|Win32
+		{C97EBE53-E12F-4083-9017-3F20CD9B5A06}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
